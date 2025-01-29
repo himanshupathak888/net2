@@ -1,0 +1,5 @@
+caseManagementTestCases\VerifycaseManagement.class
+CustomerCare\VerifyCustomerCare.class
+TrialManagement\VerifyTrialManagement.class
+orderManagementTestcases\OrdermanagementTestcases.class
+ServiceHealth\VerifyServiceHealth.class
